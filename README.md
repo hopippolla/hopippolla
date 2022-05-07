@@ -1,3 +1,4 @@
+![Screen Shot 2022-05-07 at 09 31 01](https://user-images.githubusercontent.com/25259768/167254537-3ad902de-e2a2-452a-9458-e1f38098b1e0.png)
 <h2>Hello, friends! :upside_down_face:</h2>
 My name is Felipe. I am a video editor transitioning careers to become a frontend developer. 
 Here you will find my personal projects created to further my knowledge on the exciting realm of frontend(less). :)
