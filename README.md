@@ -7,7 +7,8 @@ Here you will find my personal projects created to further my knowledge on the e
 <br></br>
 
 <div style="display: flex; flex-direction: row; align-items: center">
-
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopippolla&theme=radical&layout=compact" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=hopippolla&show_icons=true&theme=radical" />
 </div>
 
 
